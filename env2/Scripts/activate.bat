@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\LENOVO\Documents\Git\django_data_monitor\env2
+set VIRTUAL_ENV=C:\Users\CltControl\Documents\Dawm\django_data_monitor\env2
 
 if not defined PROMPT set PROMPT=$P$G
 
